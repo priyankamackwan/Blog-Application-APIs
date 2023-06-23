@@ -18,4 +18,4 @@ This is a RESTful API for a blog application that allows users to sign up, log i
 4. Start the server using the following command: npm run server
 ## API Documentation
 The API documentation can be found in the Postman collection provided. You can import the collection into Postman to explore and test the available APIs.
-- [Postman Collection](https://www.postman.com/hajiriapp/workspace/blog-api-collections/collection/8048061-31ae77e6-0759-41aa-ab56-c339417b2a27?action=share&creator=17909241)
+- [Postman Collection](https://api.postman.com/collections/8048061-7dc31f8f-368f-4755-8f52-98a2687d3f73?access_key=PMAT-01H3MJ4RB4DQ4SVYJNRA45P4FF)
